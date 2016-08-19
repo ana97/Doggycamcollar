@@ -1,0 +1,30 @@
+body{
+	background:#ffe6ff;
+}
+#header{
+	width:100%;
+	height:100px;
+	background:#F08080;	
+}
+#main{
+	width:100%;
+	height:450px;
+	
+}
+#left,#right{
+float:left;
+width:50%;
+height:100%;	
+}
+
+#left{
+	background:#ffcccc;	
+}
+#right{
+	background:#ffe6e6;	
+}
+#footer{
+	width:100%;
+	height:100px;
+	background:#ffcce6;	
+}
